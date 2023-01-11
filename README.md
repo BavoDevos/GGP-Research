@@ -1,5 +1,5 @@
 # GGP-Research : Snake neural net using genetic algorithms 
-The research i have chosen to do for my GGP exam is a neural network that uses genetic algorithms to learn the game of snake
+in this readme file i will quickly go over the basics of what my project is, explain quickly what neural networks are and the advantages and disadvantages. I will then talk about my journey throughout this project and finally conclude it with a conclusion where i go over my personal conclusion, my future with neural networks and the future of neural networks in general.
 
 
 # About this project
